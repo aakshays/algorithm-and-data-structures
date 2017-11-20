@@ -2,7 +2,7 @@ Hey!
 
 This is a collection of practice problems for algorithms and data structures I have accumulated over time. Please share your questions/problems/comments. Thanks and happy hacking!
 
-Aakshay
+Aakshay Subramaniam
 
 <a href="https://www.linkedin.com/in/aakshaysubramaniam/" target="_blank">
   <img border="0" alt="LinkedIn - Aakshay Subramaniam"         src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png" width="30" height="30">
