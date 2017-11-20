@@ -1,22 +1,13 @@
-<<<<<<< HEAD
 Hey!
 
 This is a collection of practice problems for algorithms and data structures I have accumulated over time. Please share your questions/problems/comments. Thanks and happy hacking!
 
 Aakshay
 
-linkedin
-blog
+<a href="linkedin.com/in/aakshaysubramaniam">
+  <img border="0" alt="LinkedIn - Aakshay Subramaniam"         src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png" width="40" height="40">
+</a>
 
-
-=======
-Hey!
-
-This is a collection of practice problems for algorithms and data structures I have accumulated over time. Please share your questions/problems/comments. Thanks and happy hacking!
-
-Aakshay
-
-linkedin.com/in/aakshaysubramaniam 
-
-blog.aakshay.com 
->>>>>>> fb18cb3584a6d90d4423f094f7622f12333892f8
+<a href="blog.aakshay.com ">
+  <img border="0" alt="Blog - Aakshay Subramaniam" src="https://seeklogo.com/images/B/blogger-b-logo-CAB2EB5FA1-seeklogo.com.png" width="40" height="40">
+</a>
