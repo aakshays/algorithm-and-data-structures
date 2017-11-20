@@ -16,3 +16,7 @@ Aakshay
   <img border="0" alt="Github - Aakshay Subramaniam" src="https://seeklogo.com/images/G/github-mark-logo-BF9B96FEA9-seeklogo.com.png" width="30" height="30">
 </a>
 
+<a href="https://www.facebook.com/aakshay.subramaniam">
+  <img border="0" alt="Facebook - Aakshay Subramaniam" src="https://marketplace.canva.com/MAB0h--l5Ig/1/thumbnail/canva-blue-facebook-logo-social-media-icon-MAB0h--l5Ig.png" width="30" height="30">
+</a>
+
