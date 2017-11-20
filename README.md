@@ -12,7 +12,7 @@ Aakshay Subramaniam
   <img border="0" alt="Blog - Aakshay Subramaniam" src="https://seeklogo.com/images/B/blogger-b-logo-CAB2EB5FA1-seeklogo.com.png" width="30" height="30">
 </a>
 
-<a href="https://github.com/aakshays" target="_blank">
+<a href="https://github.com/aakshays/algorithm-and-data-structures" target="_blank">
   <img border="0" alt="Github - Aakshay Subramaniam" src="https://seeklogo.com/images/G/github-mark-logo-BF9B96FEA9-seeklogo.com.png" width="30" height="30">
 </a>
 
