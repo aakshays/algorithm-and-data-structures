@@ -16,6 +16,10 @@ Aakshay Subramaniam
   <img border="0" alt="Github - Aakshay Subramaniam" src="https://seeklogo.com/images/G/github-mark-logo-BF9B96FEA9-seeklogo.com.png" width="30" height="30">
 </a>
 
+<a href="https://stackoverflow.com/users/2414586/aakshay-subramaniam" target="_blank">
+  <img border="0" alt="Stack Overflow - Aakshay Subramaniam" src="https://cdn.cybrhome.com/media/website/live/icon/icon_careers.stackoverflow.com_393f45.png" width="30" height="30">
+</a>
+
 <a href="https://www.facebook.com/aakshay.subramaniam" target="_blank">
   <img border="0" alt="Facebook - Aakshay Subramaniam" src="http://pdsasoccer.com/wp-content/uploads/2016/09/facebook-logo-C64946D6D2-seeklogo.com_.png" width="30" height="30">
 </a>
